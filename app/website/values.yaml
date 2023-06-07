@@ -1,0 +1,17 @@
+appName: mywebapp
+
+namespace: default 
+
+configmap: 
+  name: webappconfigmapv1.1
+  data: 
+    CUSTOM_HEADER: "This app was deployed with helm!"
+
+image: 
+  name: kliancombs/cortexaai
+  tag: latest
+
+service:
+  type: NodePort
+  port: 80
+  targetPort: 5000
