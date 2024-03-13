@@ -1,5 +1,5 @@
-# Kubernetes and Helm Microservice
-A website that deploys with Kubernetes and Helm including a dev and production environment configuration.
+# Kubernetes Helm Website Deployment
+Kubernetes and Helm charts for website staging and deployment, ensuring scalable infrastructure and efficient deployment.
 
 ## Step 1: Download Docker Desktop
 #### https://www.docker.com/products/docker-desktop/
