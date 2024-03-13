@@ -1,2 +1,0 @@
-kubectl get service {{ .Values.appName }} -o 'jsonpath={.spec.ports[0].nodePort}'
-start http://localhost/:<PORT>
