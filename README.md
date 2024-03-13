@@ -1,5 +1,5 @@
 # Kubernetes Helm Website Deployment
-Kubernetes and Helm charts for website staging and deployment, ensuring scalable infrastructure and efficient deployment.
+Kubernetes and Helm charts for website development and production deployments, ensuring a scalable infrastructure.
 
 ## Step 1: Download Docker Desktop
 #### https://www.docker.com/products/docker-desktop/
